@@ -17,4 +17,13 @@
 
 ## Model
 The chosen model is YoLov9e due to its excellent prediction performance and fast inference time.
-![image](https://github.com/Farlos3/Live-Ultrasound-Detection/assets/86741684/fb8bd153-847c-48d7-bf96-0a010f06a2c7)
+## Performance
+### Detection (COCO)
+| Model   | size (pixels) | mAP<sub>val</sub> 50-95 | mAP<sub>val</sub> 50 | params (M) | FLOPs (B) |
+|---------|----------------|-----------------------|---------------------|------------|-----------|
+| YOLOv9t | 640            | 38.3                  | 53.1                | 2.0        | 7.7       |
+| YOLOv9s | 640            | 46.8                  | 63.4                | 7.2        | 26.7      |
+| YOLOv9m | 640            | 51.4                  | 68.1                | 20.1       | 76.8      |
+| YOLOv9c | 640            | 53.0                  | 70.2                | 25.5       | 102.8     |
+| YOLOv9e | 640            | 55.6                  | 72.8                | 58.1       | 192.5     |
+
