@@ -1,5 +1,5 @@
 # Live-Ultrasound-Detection
-### Pre-Processing
+## Pre-Processing
 #### Perform DFT on Each Color Channel :
 - Split the input image into its color channels.
 - Apply Discrete Fourier Transform (DFT) to each channel.
@@ -15,5 +15,5 @@
 #### Merge the Filtered Channels :
 - Combine the filtered channels back into a single image.
 
-### Model
+## Model
 The chosen model is YoLo due to its excellent prediction performance and fast inference time.
