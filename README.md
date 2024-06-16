@@ -29,4 +29,4 @@ The chosen model is YoLov9e due to its excellent prediction performance and fast
 
 ## Example usage with bounding box
 ![image](https://github.com/Farlos3/Live-Ultrasound-Detection/assets/86741684/ef184b15-6a73-49ce-af65-141e585924dd)
-refer : https://github.com/Farlos3/Live-Ultrasound-Detection/assets/86741684/ef184b15-6a73-49ce-af65-141e585924dd
+<br>refer : https://github.com/Farlos3/Live-Ultrasound-Detection/assets/86741684/ef184b15-6a73-49ce-af65-141e585924dd
