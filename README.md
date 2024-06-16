@@ -27,3 +27,6 @@ The chosen model is YoLov9e due to its excellent prediction performance and fast
 | YOLOv9c | 640            | 53.0                  | 70.2                | 25.5       | 102.8     |
 | YOLOv9e | 640            | 55.6                  | 72.8                | 58.1       | 192.5     |
 
+## Example usage with bounding box
+![image](https://github.com/Farlos3/Live-Ultrasound-Detection/assets/86741684/ef184b15-6a73-49ce-af65-141e585924dd)
+refer : https://github.com/Farlos3/Live-Ultrasound-Detection/assets/86741684/ef184b15-6a73-49ce-af65-141e585924dd
