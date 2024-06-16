@@ -16,4 +16,5 @@
 - Combine the filtered channels back into a single image.
 
 ## Model
-The chosen model is YoLo due to its excellent prediction performance and fast inference time.
+The chosen model is YoLov9e due to its excellent prediction performance and fast inference time.
+![image](https://github.com/Farlos3/Live-Ultrasound-Detection/assets/86741684/fb8bd153-847c-48d7-bf96-0a010f06a2c7)
